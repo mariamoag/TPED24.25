@@ -1,0 +1,50 @@
+#TPED{
+
+    color: rgb(255, 255, 255);
+    text-decoration: wavy;
+    font-family: "Silkscreen", sans-serif;
+    font-weight: 400;
+    background-color: rgb(226, 43, 43);
+    text-align: center;
+   
+       
+}
+
+#INDICE {
+    color:tomato;
+    text-decoration: wavy;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    
+}
+
+
+p.nike{
+
+    color:rgb(242, 77, 77);
+    text-decoration: wavy;
+    font-family: "DM Sans", sans-serif;
+    background-color: black;
+
+
+
+}
+
+
+
+p.elpais{
+
+    color:rgb(242, 77, 77);
+    text-decoration: wavy;
+    font-family: "DM Sans", sans-serif;
+
+
+}
+
+p.galeria {
+
+    color:rgb(242, 77, 77);
+    text-decoration: wavy;
+    font-family: "DM Sans", sans-serif;
+}
