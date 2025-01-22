@@ -1,0 +1,12 @@
+div, header, footer, main, nav {
+    box-sizing: border-box; /* medidas determinadas por col */
+    background-color: rgb(154, 188, 211);
+    border-style:groove;
+    border-color: blue;
+    border-width: 3px;
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+    padding-top: 20px;
+}

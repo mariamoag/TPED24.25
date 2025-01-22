@@ -1,0 +1,31 @@
+.nprincipal{
+
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 1080px;
+    font-family: 'Roboto', sans-serif;
+
+    }
+
+
+.texto{
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 700;
+    font-family: 'Roboto', sans-serif;
+    }
+    
+
+
+h1{
+
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-size: 12pt;
+    font-family: 'Roboto', sans-serif;
+}

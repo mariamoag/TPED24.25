@@ -1,0 +1,118 @@
+h1{
+
+    font-size: 40pt;
+    color: blue;
+    text-align: center;
+    
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+  }
+  .container > div {
+    background-color: #f1f1f1;
+    border: 1px solid black;
+    border-style: dotted;
+    padding: 10px;
+    font-size: 30px;
+    text-align: left;
+  }
+
+
+  .uno >h1{
+
+    font-size: 50pt;
+    font-family: "Playwrite VN";
+  }
+
+
+  .uno >p{
+
+    font-size: 10pt;
+    font-family: "Playwrite VN";
+  }
+
+
+  .dos >h1{
+
+    font-size: 50pt;
+    font-family: "Lobster";
+  }
+
+  .dos>p{
+
+    font-size: 10pt;
+    font-family: "Lobster";
+
+
+  }
+
+  .tres>h1{
+
+    font-size: 50pt;
+    font-family: "Lilita One";
+  }
+
+  .tres>p{
+
+    font-size: 10pt;
+    font-family: "Lilita One";
+
+
+  }
+
+  .cuatro>h1{
+
+    font-size: 50pt;
+    font-family: "Indie Flower";
+  }
+
+  .cuatro>p{
+
+    font-size: 10pt;
+    font-family: "Indie Flower";
+
+
+  }
+
+  .cinco>h1{
+
+    font-size: 50pt;
+    font-family: "Abril Fatface";
+  }
+
+  .cinco>p{
+
+    font-size: 10pt;
+    font-family: "Abril Fatface";
+
+
+  }
+
+  .seis>h1{
+
+    font-size: 50pt;
+    font-family: "Poiret One";
+
+
+  }
+
+  .seis>p{
+
+    font-size: 10pt;
+    font-family: "Poiret one";
+
+
+  }
+
+  header>nav>p{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    width: 100%;
+  }
+  
+
